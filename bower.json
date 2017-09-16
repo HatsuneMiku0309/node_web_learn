@@ -1,0 +1,25 @@
+{
+  "name": "learn",
+  "description": "學習使用",
+  "main": "index.js",
+  "authors": [
+    "cosmo"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "learn"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7"
+  }
+}
